@@ -102,3 +102,5 @@ DOI: https://doi.org/10.1093/nar/gkv294
 | ModelSEED           | Annotation ontology map from RAST data                      | Template model               | ModelSEED            | 2.2–2.4 | Online service       |
 | Pathway Tools       | Pathologic                                                  | Database                     | MetaCyc              | 22.0    | Standalone interface |
 | RAVEN               | Autograph-type method from BLASTP and Bidirectional BLASTPb | Database- Template model(s)  | KEGG-MetaCyc         | 2.0.1   | Command line         |
+
+Mendoza SN, Olivier BG, Molenaar D, Teusink B. A systematic assessment of current genome-scale metabolic reconstruction tools. Genome Biol. 2019 Aug 7;20(1):158. doi: 10.1186/s13059-019-1769-1. PMID: 31391098; PMCID: PMC6685185.
